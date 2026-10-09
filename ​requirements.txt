@@ -1,0 +1,109 @@
+# --- Core Math, Science & Data Manipulation ---
+numpy
+pandas
+scipy
+sympy
+polars
+pyarrow
+openpyxl
+xlrd
+h5py
+bottleneck
+
+# --- Graphing & Data Visualization ---
+matplotlib
+seaborn
+plotly
+bokeh
+altair
+dash
+bqplot
+ipympl
+graphviz
+pydot
+
+# --- Machine Learning, AI & Deep Learning ---
+scikit-learn
+torch
+torchvision
+torchaudio
+transformers
+datasets
+huggingface-hub
+accelerate
+timm
+sentence-transformers
+xgboost
+lightgbm
+catboost
+optuna
+joblib
+statsmodels
+nltk
+spacy
+gensim
+tiktoken
+
+# --- Computer Vision & Media ---
+opencv-python-headless
+pillow
+scikit-image
+imageio
+mediapipe
+librosa
+soundfile
+
+# --- UI, Dashboarding & Interactive Notebooks ---
+streamlit
+gradio
+panel
+ipywidgets
+voila
+shiny
+
+# --- Web Frameworks & APIs ---
+fastapi
+uvicorn
+flask
+starlette
+httpx
+requests
+urllib3
+aiohttp
+beautifulsoup4
+lxml
+feedparser
+
+# --- Utilities, Progress & Formatting ---
+tqdm
+rich
+colorama
+click
+typer
+loguru
+pydantic
+python-dotenv
+pyyaml
+toml
+tabulate
+
+# --- System, Performance & Profiling ---
+psutil
+memory-profiler
+line-profiler
+watchdog
+schedule
+
+# --- Networking, Parsing & Compression ---
+cloudpickle
+dill
+msgpack
+protobuf
+dnspython
+
+# --- Testing & Quality Assurance ---
+pytest
+black
+flake8
+mypy
+coverage
